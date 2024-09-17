@@ -14,7 +14,7 @@ This app is a simple investment calculator that helps users calculate their inve
   <a href="https://investmentcalculator-ester.netlify.app/">
     <img src="public/investment-calculator-logo.png" alt="Logo" height="80">
   </a>
-  <h1 align="center">Tic-Tac-Toe</h1>
+  <h1 align="center">Investment Calculator</h1>
 
   <p align="center">
     <a href="https://investmentcalculator-ester.netlify.app/">View Demo</a>
